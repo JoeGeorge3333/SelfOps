@@ -1,0 +1,13 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment Variables
+.env
+web/.env
+mobile/.env
+
+# MacOS
+.DS_Store
